@@ -1,0 +1,34 @@
+.footer {
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+.footer-content {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-text {
+  font-size: 14px;
+  margin: 0;
+}
+
+.footer-logos {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.footer-logo {
+  width: 30px;
+  height: auto;
+  margin-left: 10px;
+}
+
+@media only screen and (min-width: 600px) {
+  .footer-logo {
+    width: 50px;
+    height: auto;
+  }
+}
