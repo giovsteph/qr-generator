@@ -1,6 +1,6 @@
 ![logo](src/assets/logo-with-text.png)
 
-# QR Code Generator
+# [QR Code Generator](https://qr-generator-df60a.web.app/)
 
 > Create your QR Code for Free
 
