@@ -7,6 +7,7 @@
 ## Overview and Key Features
 
 This project allows you to create a QR Code with text or an url and download it in a PNG format. Just type or paste your text and the QR Code will be automatically generated.
+This project uses [react-qr-code](https://www.npmjs.com/package/react-qr-code).
 
 ### Design Pattern
 
